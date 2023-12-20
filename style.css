@@ -1,0 +1,45 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: rgb(7, 92, 93);
+}
+.body{
+    background-size: cover;
+    background-image: none;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.copy_right_footer{
+    font-size: medium;
+    position: fixed;
+    color: rgb(86, 4, 4);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(17, 228, 228);
+    line-height: 4;
+    text-align: center;
+}
